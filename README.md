@@ -1,2 +1,2 @@
-线刷包和vcom驱动，都在release里.
-线刷工具和驱动都是只有Windows的
+线刷包和vcom驱动，都在release里。
+线刷工具和驱动仅提供Windows的，linux驱动mtk官网有，线刷工具也可以在Linux下套跑，建议自己折腾。
