@@ -1,2 +1,2 @@
 线刷包和vcom驱动，都在release里.
-线刷工具和驱动都是只有Windows的,MTK也不太可能给Linux的驱动，除非自己写
+线刷工具和驱动都是只有Windows的
